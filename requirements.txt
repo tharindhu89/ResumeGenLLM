@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+streamlit-pdf-viewer
+pdf2image
+streamlit_option_menu
+sentence-transformers
+fpdf2
+nltk
+keybert
+rake_nltk
+

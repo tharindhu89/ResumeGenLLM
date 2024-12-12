@@ -1,0 +1,56 @@
+Professional Summary: Dedicated Electrical Engineer with a robust academic background and extensive industry experience. Pursuing an MSc in Data Science at the University of Wolverhampton, enhancing a strong foundation in Electrical Engineering with advanced data analytical skills. Holding a bachelor’s degree in electrical engineering and possessing 8 years of hands -on experience across local and international projects. Highly proficient in BS 7671 electrical installation and design, with a proven ability to manage electrical projects from conception to completion. Experienced in site engineering, project management, and electrical maintenance, ensuring seamless operation of electrical systems and strict adherence to industry standards.
+Raw Response from Model: 
+TEXO (PVT) Ltd
+ELECTRICAL ENGINEER - SENIOR EXECUTIVE
+March 2023 - September 2023
+
+- Diagnose and troubleshoot electrical issues, making necessary repairs and replacements.      
+- Enforce safety standards and protocols to minimize electrical hazards and maintain a safe work environment.
+- Maintain detailed records and documentation of maintenance activities and equipment performance.
+- Involved in optimizing energy consumption and productivity improvement through motor drives optimization and control, with Va riable Frequency Drives (VFD) and Programmable Logic Controllers (PLCs).
+
+
+RUWANWELLA WATER SUPPLY PROJECT, NATIONAL WATER SUPPLY AND DRAINAGE BOARD
+ELECTRICAL ENGINEER
+June 2021 - March 2023
+
+- Coordination and oversight of Main Contractor and subcontractors project execution.
+- Review submitted contractor proposals and submissions for Detailed Design, IFC and Shop Drawings with stipulated timelines.
+- Low V oltage Electrical system calculation and Designing, Designing Lighting and general power,
+- Review the designed electrical control panels for various applications, ensuring compliance with  industry standards and project requirements.
+
+VENORA International (PVT) LTD
+ELECTRICAL PROJECT MANAGER
+December 2018 - March 2021
+
+- Scheduled daily and routine technical site visits, inspections, and progress update reports on ongoing works.
+- Plan and oversee construction, installation, testing, and commissioning functions for all Electrical equipment.
+- Work directly with the client, client staff, ME management team, and client -appointed personnel to communicate, train, and maintain new Electrical Engineering equipment in the project.   
+- Collaborated with cross -functional teams, including engineers and technicians, to ensure seamless  integration of control panels into larger systems.
+
+
+VENORA INTERNATIONAL PROJECTS (PVT) LTD
+ELECTRICAL ENGINEER
+September 2017 - April 2021
+
+- Update As -Built drawings as per site check.
+- Follow up design drawings changes and provide V ariation orders  for addition omission.      
+- Report site progress as per project schedule and weekly report of onsite projects status.    
+- Conducted quality checks and inspections of assembled panels to guarantee functionality and safety.
+Extracted Experiences: [{'company': 'TEXO (PVT) Ltd', 'position': 'ELECTRICAL ENGINEER - SENIOR EXECUTIVE', 'duration': 'March 2023 - September 2023', 'job_descriptions': ['Not found']}, {'company': '- Diagnose and troubleshoot electrical issues, making necessary repairs and replacements.', 'position': '- Enforce safety standards and protocols to minimize electrical hazards and maintain a safe work environment.', 'duration': '- Maintain detailed records and documentation of maintenance activities and equipment performance.', 'job_descriptions': ['Involved in optimizing energy consumption and productivity improvement through motor drives optimization and control, with Va riable Frequency Drives (VFD) and Programmable Logic Controllers (PLCs).']}, {'company': 'RUWANWELLA WATER SUPPLY PROJECT, NATIONAL WATER SUPPLY AND DRAINAGE BOARD', 'position': 'ELECTRICAL ENGINEER', 'duration': 'June 2021 - March 2023', 'job_descriptions': ['Not found']}, {'company': '- Coordination and oversight of Main Contractor and subcontractors project execution.', 'position': '- Review submitted contractor proposals and submissions for Detailed Design, IFC and Shop Drawings with stipulated timelines.', 'duration': '- Low V oltage Electrical system calculation and Designing, Designing Lighting and general power,', 'job_descriptions': ['Review the designed electrical control panels for various applications, ensuring compliance with  industry standards and project requirements.']}, {'company': 'VENORA International (PVT) LTD', 'position': 'ELECTRICAL PROJECT MANAGER', 'duration': 'December 2018 - March 2021', 'job_descriptions': ['Not found']}, {'company': '- Scheduled daily and routine technical site visits, inspections, and progress update reports on ongoing works.', 'position': '- Plan and oversee construction, installation, testing, and commissioning functions for all Electrical equipment.', 'duration': '- Work directly with the client, client staff, ME management team, and client -appointed personnel to communicate, train, and maintain new Electrical Engineering equipment in the project.', 'job_descriptions': ['Collaborated with cross -functional teams, including engineers and technicians, to ensure seamless  integration of control panels into larger systems.']}, {'company': 'VENORA INTERNATIONAL PROJECTS (PVT) LTD', 'position': 'ELECTRICAL ENGINEER', 'duration': 'September 2017 - April 2021', 'job_descriptions': ['Not found']}, {'company': '- Update As -Built drawings as per site check.', 'position': '- Follow up design drawings changes and provide V ariation orders  for addition omission.', 'duration': '- Report site progress as per project schedule and weekly report of onsite projects status.', 'job_descriptions': ['Conducted quality checks and inspections of assembled panels to guarantee functionality and safety.']}]  
+Experiences to display: [{'company': 'TEXO (PVT) Ltd', 'position': 'ELECTRICAL ENGINEER - SENIOR EXECUTIVE', 'duration': 'March 2023 - September 2023', 'job_descriptions': ['Not found']}, {'company': '- Diagnose and troubleshoot electrical issues, making necessary repairs and replacements.', 'position': '- Enforce safety standards and protocols to minimize electrical hazards and maintain a safe work environment.', 'duration': '- Maintain detailed records and documentation of maintenance activities and equipment performance.', 'job_descriptions': ['Involved in optimizing energy consumption and productivity improvement through motor drives optimization and control, with Va riable Frequency Drives (VFD) and Programmable Logic Controllers (PLCs).']}, {'company': 'RUWANWELLA WATER SUPPLY PROJECT, NATIONAL WATER SUPPLY AND DRAINAGE BOARD', 'position': 'ELECTRICAL ENGINEER', 'duration': 'June 2021 - March 2023', 'job_descriptions': ['Not found']}, {'company': '- Coordination and oversight of Main Contractor and subcontractors project execution.', 'position': '- Review submitted contractor proposals and submissions for Detailed Design, IFC and Shop Drawings with stipulated timelines.', 'duration': '- Low V oltage Electrical system calculation and Designing, Designing Lighting and general power,', 'job_descriptions': ['Review the designed electrical control panels for various applications, ensuring compliance with  industry standards and project requirements.']}, {'company': 'VENORA International (PVT) LTD', 'position': 'ELECTRICAL PROJECT MANAGER', 'duration': 'December 2018 - March 2021', 'job_descriptions': ['Not found']}, {'company': '- Scheduled daily and routine technical site visits, inspections, and progress update reports on ongoing works.', 'position': '- Plan and oversee construction, installation, testing, and commissioning functions for all Electrical equipment.', 'duration': '- Work directly with the client, client staff, ME management team, and client -appointed personnel to communicate, train, and maintain new Electrical Engineering equipment in the project.', 'job_descriptions': ['Collaborated with cross -functional teams, including engineers and technicians, to ensure seamless  integration of control panels into larger systems.']}, {'company': 'VENORA INTERNATIONAL PROJECTS (PVT) LTD', 'position': 'ELECTRICAL ENGINEER', 'duration': 'September 2017 - April 2021', 'job_descriptions': ['Not found']}, {'company': '- Update As -Built drawings as per site check.', 'position': '- Follow up design drawings changes and provide V ariation orders  for addition omission.', 'duration': '- Report site progress as per project schedule and weekly report of onsite projects status.', 'job_descriptions': ['Conducted quality checks and inspections of assembled panels to guarantee functionality and safety.']}] 
+
+
+
+list each experience according to each company and position during that time. latest first
+    - Company name(not the position) , if cannot find, output as 'Not Found' and separate with newline
+    - Position held, work position (not the company) , if cannot find, output as 'Not Found' and separate with newline
+    - Duration (e.g., Month Year to Month Year, or current), if cannot find, output as Not Found and separate with newline
+    - list job description each point seperated by new line
+    Format each experience with these details separated by new line, 
+    separate different experience posotions by a double newline.
+    plain text output
+    exclude the Volunteer or community service experience for this
+    follow the output sequence (company name) newline, (position held) newline, (job duration) newline, [job description(each point seperated by new line)] \n\n. 
+    if any of these not found, respond not found 
+    new line for each experience position and double new line for next experience position is must
